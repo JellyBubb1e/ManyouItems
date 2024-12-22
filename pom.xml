@@ -199,8 +199,7 @@
             <groupId>net.advancedplugins</groupId>
             <artifactId>AdvancedEnchantments</artifactId>
             <version>1.0.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/AdvancedEnchantmentsAPI.jar</systemPath>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>net.luckperms</groupId>
