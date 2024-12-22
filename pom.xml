@@ -306,9 +306,9 @@
         <dependency>
             <groupId>me.qKing12</groupId>
             <artifactId>RoyaleEconomyAPI</artifactId>
-            <version>*</version>
+            <version>1.0.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/RoyaleEconomyAPI.jar</systemPath>
+            <systemPath>lib/RoyaleEconomyAPI.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>com.github.Redempt</groupId>
