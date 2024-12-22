@@ -308,7 +308,7 @@
             <artifactId>RoyaleEconomyAPI</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
-            <systemPath>lib/RoyaleEconomyAPI.jar</systemPath>
+            <systemPath>ManyouItems/lib/RoyaleEconomyAPI.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>com.github.Redempt</groupId>
