@@ -198,8 +198,9 @@
         <dependency>
             <groupId>net.advancedplugins</groupId>
             <artifactId>AdvancedEnchantments</artifactId>
-            <version>1.0.0</version>
-            <scope>provided</scope>
+            <version>8.7.4</version>
+            <scope>system</scope>
+            <systemPath>${GITHUB_WORKSPACE}/lib/AdvancedEnchantments-8.7.4.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>net.luckperms</groupId>
