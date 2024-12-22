@@ -301,15 +301,14 @@
         <dependency>
             <groupId>com.github.Auxilor</groupId>
             <artifactId>EcoBits</artifactId>
-            <version>master-a55b59745f-1</version>
+            <version>1.8.4</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>me.qKing12</groupId>
             <artifactId>RoyaleEconomyAPI</artifactId>
             <version>1.0.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/lib/RoyaleEconomyAPI.jar</systemPath>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.github.Redempt</groupId>
