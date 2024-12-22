@@ -76,7 +76,7 @@
         </repository>
         <repository>
             <id>placeholderapi</id>
-            <url>https://repo.extendedclip.com/content/repositories/placeholderapi/</url>
+            <url>https://repo.extendedclip.com/releases/</url>
         </repository>
         <repository>
             <id>nexus</id>
@@ -217,7 +217,7 @@
         <dependency>
             <groupId>com.github.Emibergo02</groupId>
             <artifactId>RedisEconomy</artifactId>
-            <version>main-370fa8da6d-1</version>
+            <version>4.3.19</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
